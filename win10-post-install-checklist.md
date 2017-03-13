@@ -1,42 +1,77 @@
-Wipe drive
-Install Windows 10 Pro
+#### *Drivers*
 
-*Drivers*
-nVidia GeForce Experience / nVidia GeForce Drivers
-Realtek Audio Drivers
+- nVidia GeForce Experience / nVidia GeForce Drivers
 
-*Security / AV / Privacy*
-Kaspersky Total Security 
-Malwarebytes Anti-Malware
-Hashtab
+- Realtek Audio Drivers
 
-*Utilities*
-Geek Uninstaller
-Stardock Fences
-Chocolaty
-CMDer
+#### *Security / AV / Privacy*
 
-*Cloud Storage*
-Dropbox
-Google Drive
-OneDrive
+- Kaspersky Total Security 
 
-*Time Wasters*
-Steam
-Origin
-GoG Galaxy
-Battle.net
+- Malwarebytes Anti-Malware
+- Hashtab
 
-*Web Browsers*
-Chrome
-Firefox
-Opera
-Vivaldi
+#### *Utilities*
+- Geek Uninstaller
 
-# TODO
--Browser Extensions (category)
--SYSTEM TWEAKS/CONFIGURATION
--URLS/LINKS
--DESCRIPTIONS
--FORMATTING
--EVERYTHING ELSE I CAN'T THINK OF RIGHT NOW
+- Fences
+- Chocolaty
+- CMDer
+- CCleaner
+
+#### *Cloud Storage*
+- Dropbox
+- Google Drive
+- OneDrive
+
+#### *Web Browsers*
+
+- Chrome
+- Firefox
+- Opera
+- Vivaldi
+
+#### *Development*
+
+- Visual Studio Code
+- WebStorm/PHPStorm
+- GitHub for Windows
+
+#### *Text Editors / Markdown*
+
+- Typora
+- Haroopad
+- Notepad++
+
+
+#### *Virtualization*
+- Virtualbox
+- Docker
+- Hyper-V Manager
+
+
+#### *Social/Communication*
+- Slack
+- Gitter
+- Discord
+
+
+#### Creative 
+
+- <insert_creative_software_here>_
+
+#### *Gaming*
+
+- Steam
+- Origin
+- GoG Galaxy
+- Battle.net
+
+#### TODO
+
+- Browser Extensions (category)
+- System tweaks and reconfiguration
+- Links
+- Descriptions/micro reviews because, why not?
+- Make this document pretty
+- Everything else I'm not thinking of right now
