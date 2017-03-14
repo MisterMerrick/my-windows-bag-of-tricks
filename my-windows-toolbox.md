@@ -1,19 +1,14 @@
 #### *Drivers*
-
 - nVidia GeForce Experience / nVidia GeForce Drivers
-
 - Realtek Audio Drivers
 
 #### *Security / AV / Privacy*
-
-- Kaspersky Total Security 
-
+- Kaspersky Total ecurity 
 - Malwarebytes Anti-Malware
 - Hashtab
 
 #### *Utilities*
 - Geek Uninstaller
-
 - Fences
 - Chocolaty
 - CMDer
@@ -25,20 +20,17 @@
 - OneDrive
 
 #### *Web Browsers*
-
 - Chrome
 - Firefox
 - Opera
 - Vivaldi
 
 #### *Development*
-
 - Visual Studio Code
 - WebStorm/PHPStorm
 - GitHub for Windows
 
 #### *Text Editors / Markdown*
-
 - Typora
 - Haroopad
 - Notepad++
@@ -56,12 +48,10 @@
 - Discord
 
 
-#### Creative 
-
-- <insert_creative_software_here>_
+#### Creative
+- 
 
 #### *Gaming*
-
 - Steam
 - Origin
 - GoG Galaxy
@@ -69,7 +59,7 @@
 
 #### TODO
 
-- macOS and *nix versions
+- macOS and *nix versions (iOS and Android also?!)
 - Browser Extensions (category)
 - System tweaks and reconfiguration
 - Links
