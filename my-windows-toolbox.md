@@ -69,6 +69,7 @@
 
 #### TODO
 
+- macOS and *nix versions
 - Browser Extensions (category)
 - System tweaks and reconfiguration
 - Links
